@@ -4,7 +4,7 @@ Welcome to my learning projects repository! This repository contains projects cr
 
 ## Projects List
 
-- **Calculator**: Basic calculator with HTML, CSS, and JavaScript.
+- [**Calculator**](https://github.com/Gabogogi/javascript_projects/tree/main/calculator): Basic calculator with HTML, CSS, and JavaScript.
 
 ## Author
 
