@@ -29,6 +29,6 @@ The calculator has a clean and modern design with a responsive layout. It uses t
 
 ## Author
 
-[Benson Maina]
+[Benson Maina](https://github.com/Gabogogi)
 
 Feel free to customize and enhance the calculator as needed for your project. Enjoy calculating!
